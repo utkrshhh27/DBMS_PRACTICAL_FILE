@@ -1,7 +1,7 @@
 -- EXPERIMENT 3: EMPLOYEE-DEPARTMENT-PROJECT DATABASE
--- Name: Ayush Singh
+-- Name: Utkarsh Soni
 -- Course: BTech CSE AIML-1 Group-B
--- Registration No.: 25LBCS3283
+-- Registration No.: 25LBCS3285
 --
 -- AIM:
 -- Create an Employee-Department-Project relational database,
